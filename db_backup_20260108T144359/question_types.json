@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "mcq",
+    "description": "Multiple Choice Question",
+    "created_at": "2025-11-24T12:43:41.093Z"
+  },
+  {
+    "id": "2",
+    "name": "matching",
+    "description": "Matching Pairs",
+    "created_at": "2025-11-24T12:43:41.093Z"
+  },
+  {
+    "id": "3",
+    "name": "fill",
+    "description": "Fill in the Blanks",
+    "created_at": "2025-11-24T12:43:41.093Z"
+  },
+  {
+    "id": "4",
+    "name": "reorder",
+    "description": "Put in Order",
+    "created_at": "2025-11-24T12:43:41.093Z"
+  },
+  {
+    "id": "5",
+    "name": "truefalse",
+    "description": "True or False",
+    "created_at": "2025-11-24T12:43:41.093Z"
+  }
+]
