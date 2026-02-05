@@ -17,6 +17,10 @@ services:
         fromService:
           type: web
           property: url
+      - key: NEXT_PUBLIC_SUPABASE_URL
+        value: https://zjziegyiscwdpnimjtgm.supabase.co
+      - key: NEXT_PUBLIC_SUPABASE_ANON_KEY
+        value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InpqemllZ3lpc2N3ZHBuaW1qdGdtIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjM2MTI3MzAsImV4cCI6MjA3OTE4ODczMH0.wfEL2xohbFdVx4u5naem4c54Godw9x2Wk5SA1j0Bowc
     
     # Connect to PostgreSQL
     databases:
